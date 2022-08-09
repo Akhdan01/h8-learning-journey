@@ -1,0 +1,1 @@
+print('hari ini saya belajar dengan baik')
